@@ -20,9 +20,22 @@ public static void main(String[] args) {
 	System.out.println(i);
 }
 private void work() {
+
+    System.out.println("Changes in Collection Methods");
+    System.out.println("Work done");
+}
+private void sub() {
 	System.out.println("Adding new Data");
 	System.out.println("Work Done");
 
 }
+	
+
 }
+
+	
+
+
+
+
 

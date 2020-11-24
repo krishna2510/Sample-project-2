@@ -19,4 +19,10 @@ public static void main(String[] args) {
 	i.add(8, 80);
 	System.out.println(i);
 }
+private void work() {
+	System.out.println("Adding new Data");
+	System.out.println("Work Done");
+
 }
+}
+

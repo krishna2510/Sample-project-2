@@ -19,4 +19,9 @@ public static void main(String[] args) {
 	i.add(8, 80);
 	System.out.println(i);
 }
+private void work() {
+    System.out.println("Changes in Collection Methods");
+    System.out.println("Work done");
+
+}
 }
